@@ -11,16 +11,6 @@ Key Features
 
     Customizable: Configure to use middle mouse button instead of right mouse button
 
-Installation
-
-    Download the addon ZIP file
-
-    In Blender, go to Edit > Preferences > Add-ons
-
-    Click "Install..." and select the downloaded ZIP file
-
-    Enable the addon by checking the box next to its name
-
 Configuration
 
 After installation, you'll need to configure the right mouse button (RMB) settings:
