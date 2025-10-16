@@ -1,3 +1,4 @@
+[<video src="Border Occlusion Video_.mp4" width="686" height="686" controls></video>](https://github.com/user-attachments/assets/4c9606b3-c062-4400-a79a-95290d460262)
 
 # BorderOcclusion
 
@@ -43,3 +44,7 @@
 ## Development
 
 Contributions, bug reports, and feature suggestions are welcome! See the `issues` tab or create a PR.
+
+
+
+
